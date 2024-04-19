@@ -1,3 +1,3 @@
-1.  install latest version of python
+1. install latest version of python
 2. install latest verison of flask
-3. install 
+3. install opencv-python, pytesseract and base64.
