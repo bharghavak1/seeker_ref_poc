@@ -3,7 +3,7 @@ import pytesseract
 import cv2
 import base64
 import re
-import numpy as np
+
 from PIL import Image
 import tempfile
 app = Flask(__name__)
